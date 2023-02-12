@@ -1,5 +1,8 @@
-# HTMLCSS-PROJECTS
-NOW I ADD THE PROJECT OF HTML AND CSS AND LIVE IN NETLIFY
+# HTML-CSS USING PROJECTS
+NRV
 
-1. Card project using html and css
+## 1. CARD
 https://card--lively-longma-6ab42a.netlify.app/
+
+## 2. LANDING PAGE
+https://landingpage--superb-bunny-3f10fb.netlify.app/
