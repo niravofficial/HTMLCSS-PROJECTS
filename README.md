@@ -9,3 +9,6 @@ https://landingpage--superb-bunny-3f10fb.netlify.app/
 
 ## 3. My Gallery Web page
 https://mygallery--gleeful-crepe-ba2dc6.netlify.app/
+
+## 4. parallac page
+https://parallax--inquisitive-mermaid-1f63e5.netlify.app/
