@@ -15,3 +15,6 @@ https://parallax--inquisitive-mermaid-1f63e5.netlify.app/
 
 ## 5. portfolio page
 https://portfolio--gregarious-squirrel-9298ba.netlify.app/
+
+## 6. password generator
+https://passwordgenerator--fanciful-fox-858d7d.netlify.app/
